@@ -32,7 +32,7 @@ This is my personal portfolio website created as part of my Web Development proj
 ## Project Structure
 
 PersonalPortfolio/
-│
+
 ├── index.html
 ├── style.css
 └── README.md
