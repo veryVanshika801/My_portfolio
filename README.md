@@ -18,8 +18,8 @@ This is my personal portfolio website created as part of my Web Development proj
 - Responsive layout
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## Concepts Used
 - Semantic HTML elements
